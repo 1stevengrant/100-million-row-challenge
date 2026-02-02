@@ -54,4 +54,4 @@ Should result in:
 
 ## Submitting your solution
 
-Send a pull request to this repository with your solution. Make sure the `data:validate` command
+Send a pull request to this repository with your solution. The title of your pull request should simply be your GitHub's username.
